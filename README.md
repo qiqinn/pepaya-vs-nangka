@@ -1,4 +1,4 @@
-# Deployment Model CNN (Daun pepaya vs Daun nangka)
+# Deployment Model CNN (Elephant vs Lion)
 
 ## Deskripsi singkat
 
